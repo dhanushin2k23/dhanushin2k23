@@ -176,15 +176,17 @@ Blockchain-integrated FIR platform with JWT authentication, OTP verification, se
 
 Distributed social networking platform enabling cross-server federation, synchronized feeds, scalable PostgreSQL-backed architecture, and secure REST API communication.
 
-<br/>
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhanushin2k23&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14"/>
+<a href="https://github.com/dhanushin2k23">
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=dhanushin2k23&show_icons=true&theme=tokyonight&hide_border=true"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushin2k23&layout=compact&theme=tokyonight&hide_border=true&border_radius=14"/>
+<a href="https://github.com/dhanushin2k23">
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dhanushin2k23&layout=compact&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
 
@@ -192,11 +194,9 @@ Distributed social networking platform enabling cross-server federation, synchro
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=dhanushin2k23&theme=tokyonight&hide_border=true&border_radius=14"/>
+<img src="https://streak-stats.demolab.com?user=dhanushin2k23&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-<br/>
 
 # 🧠 Engineering Philosophy
 
