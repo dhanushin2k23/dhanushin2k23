@@ -30,11 +30,11 @@ Building scalable distributed applications, secure backend systems, and modern c
 
 </div>
 
----
+<br/>
 
 # 💫 About Me
 
-```yaml id="6o2kdd"
+```yaml
 name: S Dhanush
 
 role: Backend & Distributed Systems Engineer
@@ -42,21 +42,21 @@ role: Backend & Distributed Systems Engineer
 currently_building:
   - Federated Social Media Platform
   - Blockchain-integrated systems
-  - Scalable backend architectures
   - Secure RESTful APIs
+  - Scalable backend architectures
 
 currently_learning:
   - Advanced System Design
   - Cloud Infrastructure
-  - LLM Engineering
   - Distributed Architectures
+  - AI-powered backend systems
 
 tech_focus:
   - Backend Engineering
   - Distributed Systems
+  - API Architecture
   - Authentication & Security
   - Blockchain Applications
-  - API Architecture
 
 ask_me_about:
   - Python
@@ -72,7 +72,7 @@ ask_me_about:
   - Blockchain Systems
 ```
 
----
+<br/>
 
 # 🚀 Engineering Focus
 
@@ -80,7 +80,7 @@ ask_me_about:
 
 | Domain                 | Specialization                           |
 | ---------------------- | ---------------------------------------- |
-| ⚡ Backend Systems      | FastAPI, Flask, scalable APIs           |
+| ⚡ Backend Systems      | FastAPI, Flask, scalable REST APIs       |
 | 🌐 Distributed Systems | Federated architecture & synchronization |
 | ☁️ Cloud & DevOps      | Dockerized deployments & AWS             |
 | 🔐 Security            | JWT, RBAC, OTP authentication            |
@@ -88,45 +88,53 @@ ask_me_about:
 
 </div>
 
----
+<br/>
 
 # 🛠 Tech Stack
 
 ## ⚙️ Backend Development
 
-<p align="center">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,flask,fastapi,nodejs" />
-</p>
+
+</div>
 
 ---
 
 ## 🎨 Frontend Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,js," />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,html,css,js" />
+
+</div>
 
 ---
 
 ## ☁️ Cloud & DevOps
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux," />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux" />
+
+</div>
 
 ---
 
 ## 🗄 Databases
 
-<p align="center">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" />
-</p>
+
+</div>
 
 ---
 
 ## ⛓ Blockchain
 
-<p align="center">
+<div align="center">
 
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
 
@@ -136,17 +144,19 @@ ask_me_about:
 
 <img src="https://img.shields.io/badge/Web3-121D33?style=for-the-badge"/>
 
-</p>
+</div>
 
 ---
 
 ## 🧰 Tools & Workflow
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,bash,figma" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,bash,figma" />
+
+</div>
+
+<br/>
 
 # 🌟 Featured Projects
 
@@ -154,19 +164,19 @@ ask_me_about:
 
 Decentralized pharmaceutical verification system using Ethereum, Solidity, Node.js, and IPFS for tamper-proof medicine authentication and supply-chain validation.
 
----
+<br/>
 
 ## 🚔 SAARTHI — Police Complaint Management System
 
 Blockchain-integrated FIR platform with JWT authentication, OTP verification, secure complaint workflows, and tamper-proof complaint storage.
 
----
+<br/>
 
 ## 🌐 Federated Social Media Platform
 
 Distributed social networking platform enabling cross-server federation, synchronized feeds, scalable PostgreSQL-backed architecture, and secure REST API communication.
 
----
+<br/>
 
 # 📊 GitHub Analytics
 
@@ -182,31 +192,25 @@ Distributed social networking platform enabling cross-server federation, synchro
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dhanushin2k23&theme=tokyonight&hide_border=true&border_radius=14"/>
+<img src="https://streak-stats.demolab.com?user=dhanushin2k23&theme=tokyonight&hide_border=true&border_radius=14"/>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dhanushin2k23&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 # 🧠 Engineering Philosophy
 
 <div align="center">
 
-> Build systems that scale.
-> Build infrastructure that stays reliable.
-> Build products that solve real problems.
+### Build systems that scale.
+
+### Build infrastructure that stays reliable.
+
+### Build products that solve real problems.
 
 </div>
 
----
+<br/>
 
 # 🌐 Connect With Me
 
@@ -226,7 +230,7 @@ Distributed social networking platform enabling cross-server federation, synchro
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
